@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://willjsimmons.github.io/images/profilev2.jpg",
     "email": "wjs7@hawaii.edu",
-    "phone": "",
+    "phone": "(310)9266925",
     "website": "https://willjsimmons.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "willjsimmons@gmail.com",
         "url": "http://github.com/changeme"
       },
       {
@@ -84,7 +84,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
@@ -95,8 +95,20 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Team Topiary Landscaping Services",
+      "position": "Co-Owner",
+      "website": "Teamtopiary.com",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "position": "Product Advisor",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
