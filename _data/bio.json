@@ -57,7 +57,8 @@
         "C++",
         "Java",
         "Javascript",
-        "PHP"
+        "PHP",
+        "Spanish"
       ]
     },
         {
@@ -111,41 +112,25 @@
             "website": "",
             "startDate": "2015-08-01",
             "endDate": "Present",
-            "summary": "Head of online presence for Ka Leo",
+            "summary": "A position in sales and service",
             "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "sugest and provide information to clients "
       ]
     },
 
   ],
     "volunteer": [
         {
-            "organization": "Center for Renewable Energy and Island Sustainability",
-            "website": "http://manoa.hawaii.edu/reis",
-            "position": "Software Developer",
+            "organization": "One Village Foundation",
+            "website": "",
+            "position": "Organizer",
             "startDate": "2016-01-01",
             "endDate": "Present",
-            "summary": "Lead developer for weather sensing project",
+            "summary": "Organized educational projects in underserved communities.",
             "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+            "provided educational resources to students in underserved communities.",
       ]
     },
-  ],
-    "awards": [
-        {
-            "title": "B+ Scholarship",
-            "date": "2013-Present",
-            "awarder": "State of Hawaii",
-            "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-        {
-            "title": "First place",
-            "date": "2015",
-            "awarder": "University of Hawaii Micromouse Competition",
-            "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
     "references": [
         {
