@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/logo.png
 title: Team Topiary
 permalink: projects/Team Topiary
 # All dates must be YYYY-MM-DD format!
