@@ -1,22 +1,26 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/graphics.jpg
+title: Game Engine v2.
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-02-12
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - win32API
+  - InProgress
+  - Opengl
+  - Vulkan
   - GitHub
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
+<img href="https://www.extremetech.com/wp-content/uploads/2011/08/opengl-logo.jpg"
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+GAme engine vl, Spring 2015. The project helped me learn how to design and implement a responsive web site. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Game Engine v2 is a work in progress project created to explore modern graphics and shader programing pipelines.
+It 
+Rendering engine which I am currently in the process of reimplementing from in the more robust vulkan graphics api.
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
