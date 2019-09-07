@@ -14,7 +14,7 @@ labels:
   - GitHub
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
-<img href="https://www.extremetech.com/wp-content/uploads/2011/08/opengl-logo.jpg"
+<img href="https://www.extremetech.com/wp-content/uploads/2011/08/opengl-logo.jpg">
 
 GAme engine vl, Spring 2015. The project helped me learn how to design and implement a responsive web site. 
 
