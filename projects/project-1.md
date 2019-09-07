@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/accounting.jpg
+title: Accountingv2
+permalink: projects/accountingv2
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-01
 labels:
@@ -24,13 +24,10 @@ It was found that while robust, access offered limited to no options for remotly
 In addition to this access as a general purpose database tool didn't offer the type of specialization needed for financial management.
 It was thusly decided that implementation as a web app would provide the best route. 
 
-other than third party apis this project is strictly my own and was fully developed by myself and has gone through several itterations and modifications.
+other than third party apis this project is strictly my own and was fully developed by myself and has gone through several itterations and modifications of which we are currently on the third. 
 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the .
 
 
 
