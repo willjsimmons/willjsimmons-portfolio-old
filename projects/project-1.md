@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/accounting.jpg
+image: images/accounting.png
 title: Accountingv2
 permalink: projects/accountingv2
 # All dates must be YYYY-MM-DD format!

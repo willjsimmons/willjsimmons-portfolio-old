@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/graphicsApis.jpeg.jpg
-title: Game Engine v2.
+title: Game Engine v2
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2017-02-12
